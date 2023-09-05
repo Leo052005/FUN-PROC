@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="leo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 07:34:03 p. m."/>
+        <attribute name="created" value="bGVvO0xBUFRPUC1KREU3SlZDQTsyMDIzLTA5LTA0OzA2OjU4OjEwIHAuIG0uOzI4NTk="/>
+        <attribute name="edited" value="bGVvO0xBUFRPUC1KREU3SlZDQTsyMDIzLTA5LTA0OzA3OjM0OjAzIHAuIG0uOzE7Mjk2NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="califa" type="Integer" array="False" size=""/>
+            <output expression="&quot;introduce la calificacion&quot;" newline="True"/>
+            <input variable="califa"/>
+            <output expression="&quot;Tu calificacio es&quot;" newline="True"/>
+            <output expression="100" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
